@@ -1,0 +1,30 @@
+{
+  "name": "tish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpFile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faisal-Hassan/nodepractice.git"
+  },
+  "keywords": [
+    "node",
+    "practice"
+  ],
+  "author": "Faisal Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faisal-Hassan/nodepractice/issues"
+  },
+  "homepage": "https://github.com/Faisal-Hassan/nodepractice#readme"
+}
